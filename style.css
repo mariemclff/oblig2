@@ -45,7 +45,6 @@
     }
     
     main {
-        margin-top: 2rem;
         margin-bottom: 2rem;
         box-shadow: 0 0 1px 0 darkgrey;
     }
@@ -152,10 +151,8 @@
     }
     
     main {
-        margin-top: 2rem;
         margin-bottom: 2rem;
         box-shadow: 0 0 1px 0 darkgrey;
-        padding: brown;
     }
 
     main article{
@@ -308,7 +305,6 @@
         margin-top: 2rem;
         margin-bottom: 2rem;
         box-shadow: 0 0 1px 0 darkgrey;
-        padding: brown;
     }
 
     header, main, footer {
